@@ -35,21 +35,20 @@ This project practices important JavaScript fundamentals:
 
 ## 💻 Example Output
 
-id="8g4m4x"
 User Information:
-{name: 'Mohammed', age: 16, country: 'Egypt', job: 'Student'}
+- {name: 'Mohammed', age: 16, country: 'Egypt', job: 'Student'}
 
-Name: Mohammed
-Age: 16
+- Name: Mohammed
+- Age: 16
 
 Updated Age:
-17
+- 17
 
 After Adding Email:
-{name: 'Mohammed', age: 17, country: 'Egypt', job: 'Student', email: 'mohammed@example.com'}
+- {name: 'Mohammed', age: 17, country: 'Egypt', job: 'Student', email: 'mohammed@example.com'}
 
 After Deleting Job:
-{name: 'Mohammed', age: 17, country: 'Egypt', email: 'mohammed@example.com'}
+- {name: 'Mohammed', age: 17, country: 'Egypt', email: 'mohammed@example.com'}
 
 Property exists: Egypt
 
